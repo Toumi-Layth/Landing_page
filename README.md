@@ -1,1 +1,1 @@
-# Landing_page
+A simple landing page project built as part of The Odin Project curriculum. This page demonstrates fundamental HTML and CSS skills, including layout with Flexbox, responsive design, and semantic markup. The landing page features a prominent hero section, informational cards, a testimonial quote, a call-to-action area, and a footer. It is designed to be visually appealing and easy to customize for different products or services.
